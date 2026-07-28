@@ -41,6 +41,21 @@ The application allows users to organize project activities, monitor deadlines, 
 
 ---
 
+## Development Roadmap
+
+- [x] Create GitHub repository
+- [x] Write project documentation
+- [ ] Create JavaFX project
+- [ ] Design Dashboard UI
+- [ ] Implement Task model
+- [ ] Build Task Management
+- [ ] Develop Risk Analyzer
+- [ ] Develop Recommendation Engine
+- [ ] Calculate Project Health Score
+- [ ] Create Reports
+- [ ] Improve UI styling
+- [ ] Final testing
+
 ## Author
 
 **Andela Stojanovic**
