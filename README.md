@@ -98,7 +98,7 @@ Every dashboard component automatically refreshes after filters or search criter
 
 ### Dashboard Overview
 
-![Project Dashboard](images/dashboard-overview.png)
+![Project Dashboard](images/dashboard-overview.png) 
 
 ---
 
