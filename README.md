@@ -94,6 +94,14 @@ Every dashboard component automatically refreshes after filters or search criter
 
 ---
 
+## 📸 Screenshots
+
+### Dashboard Overview
+
+![Project Dashboard](images/dashboard-overview.png)
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Java 21**
