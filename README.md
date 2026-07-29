@@ -1,64 +1,20 @@
-# Project Risk Dashboard
+# 📊 Project Risk Dashboard
 
-A JavaFX application designed to help Project Managers monitor project progress, track tasks, identify risks, and improve decision-making through project health analysis and smart recommendations.
+A JavaFX desktop application that helps Project Managers monitor project health, identify high-risk tasks, and make informed decisions through real-time analytics and intelligent risk detection.
 
----
-
-## Overview
-
-Project Risk Dashboard is a desktop application built with JavaFX that simulates a real-world project management environment.
-
-The application allows users to organize project activities, monitor deadlines, prioritize tasks, evaluate project health, and receive automated recommendations before risks become critical.
+The application simulates a modern Project Management Dashboard by combining task tracking, dynamic KPI monitoring, interactive filtering, risk analysis, and smart project insights within a clean and intuitive user interface.
 
 ---
 
-## Main Features
+## 🚀 Key Features
 
-- Dashboard with project overview
-- Task Management
-- Project Health Score
-- Risk Monitoring
-- Smart Recommendations
-- Reports and KPIs
-- Priority Management
-- Deadline Tracking
-
----
-
-## Technologies
-
-- Java
-- JavaFX
-- Git
-- GitHub
-- IntelliJ IDEA
-
----
-
-## Project Status
-
-🚧 Currently under development.
-
----
-
-## Development Roadmap
-
-- [x] Create GitHub repository
-- [x] Write project documentation
-- [ ] Create JavaFX project
-- [ ] Design Dashboard UI
-- [ ] Implement Task model
-- [ ] Build Task Management
-- [ ] Develop Risk Analyzer
-- [ ] Develop Recommendation Engine
-- [ ] Calculate Project Health Score
-- [ ] Create Reports
-- [ ] Improve UI styling
-- [ ] Final testing
-
-## Author
-
-**Andela Stojanovic**
-
-GitHub:
-https://github.com/andelastojanovic
+- 📋 Task Management Dashboard
+- 🔍 Live Search & Multi-Filter System
+- 📊 Interactive Risk Distribution Pie Chart
+- 📈 Project KPI Cards
+- 🚨 Smart Risk Insights Engine
+- ⚠️ Automatic Risk Classification
+- 🎯 Dynamic Risk Scoring Algorithm
+- 📅 Deadline Monitoring
+- ⏱ Estimated vs Actual Hours Analysis
+- 🎨 Dynamic Risk-Based Color Coding
