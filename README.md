@@ -100,6 +100,15 @@ Every dashboard component automatically refreshes after filters or search criter
 
 ![Project Risk Dashboard Overview](images/dashboard-overview.png)
 
+### Smart Risk Insights
+![Smart Risk Insights](images/smart-risk-insights.png)
+
+### Interactive Dashboard
+![Interactive Dashboard](images/interactive-dashboard.png)
+
+### Risk Distribution
+![Risk Distribution](images/risk-distribution.png)
+
 ---
 
 ## 🛠️ Technologies Used
