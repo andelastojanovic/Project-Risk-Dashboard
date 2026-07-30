@@ -1,6 +1,4 @@
 # 📊 Project Risk Dashboard
-![Project Risk Dashboard Overview](images/dashboard-overview.png)
-
 
 A JavaFX desktop application that helps Project Managers monitor project health, identify high-risk tasks, and make informed decisions through real-time analytics and intelligent risk detection.
 
@@ -100,7 +98,7 @@ Every dashboard component automatically refreshes after filters or search criter
 
 ### Dashboard Overview
 
-![Project Risk Dashboard Overview](images/dashboard-overview.png)
+![Project Risk Dashboard Overview](images/dashboard-overview.png.png)
 
 ---
 
